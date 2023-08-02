@@ -1,0 +1,18 @@
+.addressSearchContainer {
+  max-width: 500px;
+  width: 100%;
+  position: fixed;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10;
+  display: flex;
+  justify-content: center;
+}
+
+.modeToggle {
+    background: #fff;
+    border: 2px solid black;
+    font-size: 1rem;
+    cursor: pointer;
+}
