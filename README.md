@@ -5,11 +5,10 @@ This project uses the Google Maps autocomplete function to create a list of plac
 
 Here are some of the project's features:
 
-### `Autocomplete: The list of places will be based on the user's location and interests.`
+##### `Autocomplete:` The list of places will be based on the user's location and interests.
 
-### `Markers: The user will be able to add their own markers to the map.`
+##### `Markers:` The user will be able to add their own markers to the map.
 
-### `Routes: The user will be able to create lists of routes using markers.`
+##### `Routes:` The user will be able to create lists of routes using markers.
 
-
-**This project can be used for a variety of purposes, such as travel planning, finding new places to visit, or creating lists of routes.**
+#### This project can be used for a variety of purposes, such as travel planning, finding new places to visit, or creating lists of routes.
