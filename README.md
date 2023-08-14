@@ -1,4 +1,4 @@
-# Google Maps Api project
+# Google Maps API (React project)
 
 This project uses the Google Maps autocomplete function to create a list of places that the user can visit. The list will be based on the user's location and interests. The user will also be able to add their own markers to the map. Markers can be used to mark places that the user wants to visit, or to create lists of routes.
 ## Available Scripts
@@ -10,5 +10,7 @@ Here are some of the project's features:
 ##### `Markers:` The user will be able to add their own markers to the map.
 
 ##### `Routes:` The user will be able to create lists of routes using markers.
+
+##### `Location:` The user will be able to see their current location on the map.
 
 #### This project can be used for a variety of purposes, such as travel planning, finding new places to visit, or creating lists of routes.
